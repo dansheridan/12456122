@@ -28,3 +28,9 @@ def print
     puts "#{@direction}"
 
   end
+  
+  object = Die.new
+  object.direction
+  object.print
+
+end
