@@ -23,3 +23,8 @@ class Die
 
     end
   end
+
+def print
+    puts "#{@direction}"
+
+  end
